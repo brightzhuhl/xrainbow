@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.brightzhuhl.xrainbow.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.brightzhuhl.xrainbow.MyBundle
 
 class MyApplicationService {
 
